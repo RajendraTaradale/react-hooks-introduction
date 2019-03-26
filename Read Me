@@ -1,0 +1,10 @@
+Its complete flow to use react hooks
+
+
+1. useState()
+2. useEffect() -- we can use for (ComponentDidMoun / ComponentDidUpdate / ComponentWillUnmount )
+3. useReducers()
+4. useRef()
+5.memo()  // export default react.memo(yourComponentName)
+
+Conclusion we with help of these hooks we can create function component by handling state
